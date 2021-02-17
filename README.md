@@ -7,6 +7,6 @@
 - 🔭 I’m currently working in Software development consulting
 - 🌱 I’m currently learning AWS 
 - 💬 Ask me about Software web development
-- 📫 How to reach me: Check out on [my Portifolio](https://niyoceles.github.io/celestin-niyonsaba-portifolio/)
+- 📫 How to reach me: Check out on [my Portifolio](https://niyonsaba.com/)
 - ⚡ Fun fact: Listening music and comedy
 
