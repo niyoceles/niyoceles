@@ -11,3 +11,5 @@
 - ⚡ Fun fact: I do comedy in silence
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyoceles&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyoceles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
