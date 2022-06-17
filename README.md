@@ -10,4 +10,4 @@
 <!-- - 📫 How to reach me: Check out on [my Portifolio](https://niyonsaba.com/) -->
 - ⚡ Fun fact: I do comedy in silence
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyoceles&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyoceles&count_private=true&theme=radical)
