@@ -80,11 +80,22 @@ I enjoy working across the full product lifecycle, from understanding business r
 
 ## 📊 GitHub Stats
 
-![Celestin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyoceles&show_icons=true&count_private=true&theme=radical)
+<!-- If images fail to load, the public github-readme-stats instance may be rate-limited. -->
+<!-- For a permanent fix, deploy your own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=niyoceles&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niyoceles&show_icons=true&count_private=true&theme=radical&cache_seconds=86400" alt="Celestin's GitHub Stats" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niyoceles&layout=compact&theme=radical&hide=php,C%2B%2B,C,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=niyoceles&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyoceles&layout=compact&theme=radical&hide=php,C%2B%2B,C,html&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
